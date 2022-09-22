@@ -1,0 +1,56 @@
+.for-h{
+    background-color: chocolate; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  
+
+ }
+ .for-f{
+    background-color: chocolate; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+ }
+
+ .textbox{
+    border-radius: 10px;
+    background-color: rgba(255, 127, 80, 0.274);
+    border-color: chocolate;
+    
+
+ }
+
+ .al-cent{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+ }
+ 
+.al-text-cent{
+    text-align: center;
+}
+ select{
+    border-radius: 15px;
+    background-color: rgba(255, 127, 80, 0.274);
+    border-color: chocolate;
+ }
+
+ table{
+    border-spacing: 20px;
+    border: 5px double chocolate; 
+    border-radius: 80px; 
+    box-shadow: 1px 1px 10px 10px coral;
+    padding: 20px;
+ }
+
+ .but{
+    border-radius: 10px;
+    background-color: rgba(255, 127, 80, 0.274);
+    border-color: chocolate;
+    margin: auto;
+    display: flex;
+ }
+div{
+    padding: 10px;
+}
