@@ -8,3 +8,18 @@
 .cl-w{
     color: white;
 }
+.mainh1{
+    text-align: center;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+#text-footer{
+    text-align: center;
+}
+#test{
+    margin-right:auto;
+    margin-left: auto;
+    max-width: 600px;
+}
