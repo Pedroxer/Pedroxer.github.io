@@ -1,5 +1,5 @@
 .for-h{
-    background-color: chocolate; 
+    background-color: black; 
     padding-top: 10px;
     padding-bottom: 10px;
     margin-bottom: 10px;
@@ -7,7 +7,8 @@
 
  }
  .for-f{
-    background-color: chocolate; 
+    background-color: black; 
+    color: white;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 10px;
@@ -15,8 +16,8 @@
 
  .textbox{
     border-radius: 10px;
-    background-color: rgba(255, 127, 80, 0.274);
-    border-color: chocolate;
+    background-color: grey;
+    border-color: black;
     
 
  }
@@ -32,22 +33,22 @@
 }
  select{
     border-radius: 15px;
-    background-color: rgba(255, 127, 80, 0.274);
-    border-color: chocolate;
+    background-color: grey;
+    border-color: black;
  }
 
 .bord{
     border-spacing: 20px;
-    border: 5px  chocolate; 
+    border: 5px  black; 
     border-radius: 80px; 
-    box-shadow: 1px 1px 15px 10px coral;
+    box-shadow: 1px 1px 15px 10px black;
     padding: 20px;
  }
 
  .but{
     border-radius: 10px;
-    background-color: rgba(255, 127, 80, 0.274);
-    border-color: chocolate;
+    background-color: gray;
+    border-color: black;
     margin: auto;
     display: flex;
  }

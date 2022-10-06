@@ -1,7 +1,3 @@
-
-.whiteback{
-    background-color: white;
-}
 .blackback{
     background-color: black;
 }
@@ -10,16 +6,87 @@
 }
 .mainh1{
     text-align: center;
-    margin: 0px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    background: url(../img/logo.png);
+    padding-top: 200px;
+    padding-bottom: 200px; 
+    margin-left: auto;
+    margin-right: auto;
+    height: 82px;
+    background-repeat:no-repeat;
+    background-size: 980px;
+    background-position: center;
 
 }
 #text-footer{
     text-align: center;
+    margin: 0px;
 }
 #test{
     margin-right:auto;
     margin-left: auto;
     max-width: 600px;
+}
+
+.ul-f{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-left: auto;
+    color:white;
+    align-items: center;
+   list-style-type:none;
+    
+}
+.nav-f{
+    display: inline-flex;
+    width: 100%;
+}
+
+
+
+.whiteback{
+    background-color: white;
+
+}
+
+.flex-text{
+    display: flex;
+    justify-content: space-around;
+}
+
+.p-38{
+    padding-top: 90px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 90px;
+}
+.white-text{
+    color:white
+}
+
+.competition{
+    justify-content: space-around;
+    padding:50px ;
+}
+
+.butt{
+   
+    border-radius: 12px; 
+    width: 950px;
+    padding: 50px;
+}
+
+.p-20{
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
 }
